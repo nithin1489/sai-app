@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:padding="20sp"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:text="Hello  to the world of programming this is K.Sai nithin welcome to the android application"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        text android:textSize="20sp"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="-33dp" />
+
+    <TextView
+        text
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:text="currently i am pursuing data science"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="75dp"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="24dp" />
+    <TextView
+        text
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:text="my favorate food is biriyani"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="100dp"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="24dp" />
+    <TextView
+        text
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:text="Kishore is my best friend"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="125dp"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="24dp" />
+    <TextView
+        text
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:text="i hale from mahabubnagar"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="150dp"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="24dp" />
+    <TextView
+        text
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:text="My favorate cricket player is virat i lake is cover drive and i like his commitment to wards the game"
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="170dp"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="24dp" />
+    <TextView
+        text
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="top"
+        android:text="currently i  am pursuing a internship at abhyaasindia as a android developer under the guidence of shivam kumar thakur "
+        android:textColor="@color/black"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        android:layout_marginTop="215dp"
+        tools:layout_editor_absoluteX="4dp"
+        tools:layout_editor_absoluteY="24dp" />
+
+
+</android.support.constraint.ConstraintLayout>
